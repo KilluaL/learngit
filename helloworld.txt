@@ -1,5 +1,5 @@
-hello git£¡
-this is first change£¡
+hello git!
+this is first change!
 this is second change!
 tracks changes of files
 ...
